@@ -1,1 +1,2 @@
+# Tell Github Linguist to treat .vb as Visual Basic for Applications files instead of Visual Basic .Net
 *.vb linguist-language=vba

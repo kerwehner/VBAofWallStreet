@@ -1,3 +1,5 @@
+![1743778321844](image/ReadMe/1743778321844.jpg)
+
 ## 1. Overview of Project
 
 This project used Visual Basic for Applications (VBA) programming language to analyze generated more than **750K** stock market data. The results of the analyses provide insights into about **3K** unique stock's ➊ Ticker Symbol, ➋ Yearly Change,➌ Percent Change, and ➍ Total Stock Volume. The analyses will also provide information on the  **"Greatest % increase", "Greatest % decrease", and "Greatest total volume"** .
